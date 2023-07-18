@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Веб-студия UniPin",
+    "paragraph": "Мы профессиональная команда специалистов, специализирующихся на создании различных видов веб-сайтов."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Мы предлагаем полный цикл разработки сайтов, начиная с концептуального проектирования и заканчивая запуском и поддержкой готовых проектов.\nКлючевой особенностью UniPin является создание сайтов \"под ключ\". Это означает, что мы берем на себя все аспекты разработки сайта, начиная с дизайна и вплоть до программирования и развертывания на сервере. Клиентам не нужно беспокоиться о технических деталях, так как вся работа выполняется опытными специалистами.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -21,7 +21,7 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
+      "largeImage": "img/portfolio/TestLarge.png",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
