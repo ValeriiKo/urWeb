@@ -8,14 +8,16 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
-h2,
+h1 {
+  margin: 10 30 20px;
+}
 h3,
 h4 {
   font-family: "Raleway", sans-serif;
 }
 h2 {
   text-transform: uppercase;
-  margin: 0 0 20px;
+  margin: 10 20 20px;
   font-weight: 800;
   font-size: 36px;
   color: #333;
@@ -36,11 +38,13 @@ h5 {
   line-height: 20px;
 }
 p {
-  font-size: 15px;
+  font-size: 20px;
+  margin: 60px 0 60px;
+  color: #606060;
 }
 p.intro {
-  margin: 12px 0 0;
-  line-height: 24px;
+  margin: 30px 0 30px;
+  line-height: 20px;
 }
 a {
   color: #608dfd;
@@ -209,39 +213,50 @@ a:focus,
   width: 100%;
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: #FFFFFF;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  height: 100vh;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: #FFFFFF;
 }
 .intro h1 {
-  font-family: "Raleway", sans-serif;
-  color: #fff;
-  font-size: 82px;
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-top: 0;
-  margin-bottom: 10px;
+  font-family: Inter;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #5CA9FB;
 }
 .intro h1 span {
   font-weight: 800;
   color: #5ca9fb;
 }
+.intro h2 {
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #5CA9FB;
+}
 .intro p {
-  color: #fff;
-  font-size: 22px;
-  font-weight: 300;
-  line-height: 30px;
-  margin: 0 auto;
-  margin-bottom: 60px;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #606060;
 }
 header .intro-text {
-  padding-top: 350px;
-  padding-bottom: 200px;
+  margin-top: 200px;
+  /* padding-bottom: 200px; */
   text-align: center;
 }
 /* Features Section */

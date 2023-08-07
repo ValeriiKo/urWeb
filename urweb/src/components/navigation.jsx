@@ -29,37 +29,37 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                О НАС
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                ПРЕИМУЩЕСТВА
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                УСТЛУГИ
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                ГАЛЕРЕЯ
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                ОТЗЫВЫ
               </a>
             </li>
             <li>
-              <a href="#team" className="page-scroll">
-                Team
+              <a href="#portfolio" className="page-scroll">
+                КОМАНДА
               </a>
             </li>
             <li>
-              <a href="#contact" className="page-scroll">
-                Contact
+              <a href="#testimonials" className="page-scroll">
+                КОНТАКТЫ
               </a>
             </li>
           </ul>
